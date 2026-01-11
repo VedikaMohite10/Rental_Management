@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RentalSystem</string>
+    <string name="property_image_description">Property Image</string>
+    <string name="add_to_wishlist">Add to Wishlist</string>
+</resources>
